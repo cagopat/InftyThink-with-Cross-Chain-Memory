@@ -183,7 +183,7 @@ This study was carried out as part of **COMP 545: Natural Language Understanding
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 ---
 
