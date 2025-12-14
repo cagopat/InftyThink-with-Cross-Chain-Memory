@@ -5,14 +5,12 @@ experiments_*/**
 !experiments_*/control_*/
 !experiments_*/treatment_*/
 
-# Inside those, allow only sessions.jsonl and results.csv
+# Inside those, allow ONLY sessions.jsonl
 experiments_*/control_*/**
 !experiments_*/control_*/sessions.jsonl
-!experiments_*/control_*/results.csv
 
 experiments_*/treatment_*/**
 !experiments_*/treatment_*/sessions.jsonl
-!experiments_*/treatment_*/results.csv
 
 # OS junk
 .DS_Store
