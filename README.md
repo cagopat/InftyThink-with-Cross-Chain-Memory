@@ -175,7 +175,7 @@ Our analysis reveals that correctness is encoded in subtle directional shifts ra
 
 ## Acknowledgements
 
-This study was carried out as part of **COMP 545: Natural Language Understanding with Deep Learning** at McGill University. We thank:
+We thank:
 - **Professor Siva Reddy** for initial research direction insights
 - **Megh Thakkar** for continued guidance and supervision throughout the project
 
