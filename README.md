@@ -1,13 +1,13 @@
 # InftyThink with Cross-Chain Memory
 
-[![Paper](https://img.shields.io/badge/Paper-PDF-red)](./COMP545_Report.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.08846-b31b1b.svg?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2601.08846)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Directional Attractors in LLM Reasoning: How Similarity Retrieval Steers Iterative Summarization Based Reasoning**
 
 *Charbel Barakat, Luis Joseph Luna Limgenco, Cagatay Tekin*  
-*McGill University - COMP 545: Natural Language Understanding with Deep Learning*
+
 
 ---
 
@@ -196,10 +196,3 @@ For questions or collaboration inquiries:
 
 ---
 
-## Related Work
-
-This work builds upon:
-- **InftyThink** (Yan et al., 2025): Iterative summarization-based reasoning
-- **Self-Refine** (Madaan et al., 2023): Iterative refinement with feedback
-- **Analogical Reasoning** (Yasunaga et al., 2024): Strategy reuse in LLMs
-- **Geometric Analysis** (Marks & Tegmark, 2024): Truth directions in embedding space
